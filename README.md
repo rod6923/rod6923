@@ -45,5 +45,3 @@ Atualmente, estou contribuindo com projetos **open source** e buscando melhorar 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rod6923&layout=compact&theme=transparent)](https://github.com/rod6923)
 
 ---
-
-> "A tecnologia é uma ferramenta poderosa para transformar o mundo." — **Ronaldo Lima**
